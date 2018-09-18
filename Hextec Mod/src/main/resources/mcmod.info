@@ -1,0 +1,13 @@
+[
+{
+  "modid": "hextec",
+  "name": "Hextec",
+  "description": "A Mod working with technic and magic",
+  "version": "1.0.0",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Uzara, Bomber0008"],
+  "credits": "The Forge and FML guys"
+}
+]
