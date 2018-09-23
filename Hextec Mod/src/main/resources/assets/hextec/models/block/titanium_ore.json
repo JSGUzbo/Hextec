@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "hextec:blocks/titanium_ore"  // Pfad zu dieser Datei: assets/hextec/textures/blocks/copper_ore.png
+    }
+}
